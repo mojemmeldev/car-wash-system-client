@@ -43,7 +43,7 @@ const Header = () => {
               <Phone className="size-[17px] sm:size-5" strokeWidth={1.8} aria-hidden="true" />
             </Link>
             <Link
-              href="#"
+              href="/"
               aria-label="Account"
               className="grid size-7 place-items-center rounded-full text-white transition-colors hover:text-[#FFC61B] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#FFC61B] sm:size-8"
             >
